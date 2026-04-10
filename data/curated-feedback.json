@@ -1,0 +1,137 @@
+[
+  {
+    "id": "curated-1",
+    "source": "curated",
+    "text": "Gemini in Docs keeps hallucinating content that doesn't exist in my document. I asked it to summarize my notes and it added fictional meetings and action items. This is dangerous for business documents.",
+    "author": "Enterprise user report",
+    "url": "https://www.reddit.com/r/GoogleWorkspace/",
+    "score": 0,
+    "date": "2026-03-15T00:00:00Z"
+  },
+  {
+    "id": "curated-2",
+    "source": "curated",
+    "text": "The Gemini side panel loses context every time I switch between Gmail and Docs. I'll be working on an email thread, switch to reference a doc, and when I come back Gemini has no memory of what we were discussing. Makes it useless for multi-app workflows.",
+    "author": "Power user feedback",
+    "url": "https://www.reddit.com/r/GoogleWorkspace/",
+    "score": 0,
+    "date": "2026-03-20T00:00:00Z"
+  },
+  {
+    "id": "curated-3",
+    "source": "curated",
+    "text": "I switched from Gemini to ChatGPT for spreadsheet formulas. Gemini suggestions in Sheets are basic — it can't handle complex lookups or array formulas. ChatGPT gets them right first try and explains the logic.",
+    "author": "Spreadsheet user",
+    "url": "https://www.reddit.com/r/sheets/",
+    "score": 0,
+    "date": "2026-02-10T00:00:00Z"
+  },
+  {
+    "id": "curated-4",
+    "source": "curated",
+    "text": "Google Meet summaries are hit or miss. Half the time it attributes action items to the wrong person, and it completely misses side conversations. We've gone back to taking notes manually.",
+    "author": "Meeting user",
+    "url": "https://www.reddit.com/r/GoogleWorkspace/",
+    "score": 0,
+    "date": "2026-03-01T00:00:00Z"
+  },
+  {
+    "id": "curated-5",
+    "source": "curated",
+    "text": "Why can't Gemini in Gmail draft a reply based on context from a Drive doc I share in the thread? It only knows about the email text. Meanwhile Copilot in Outlook pulls from SharePoint, Teams chats, everything.",
+    "author": "Enterprise PM",
+    "url": "https://www.reddit.com/r/google/",
+    "score": 0,
+    "date": "2026-03-25T00:00:00Z"
+  },
+  {
+    "id": "curated-6",
+    "source": "curated",
+    "text": "Gemini for Workspace's mobile experience is terrible. The side panel is cramped, voice input doesn't work half the time, and there's no way to use it hands-free. On desktop it's decent but on my phone it's unusable.",
+    "author": "Mobile user",
+    "url": "https://support.google.com/a/",
+    "score": 0,
+    "date": "2026-02-28T00:00:00Z"
+  },
+  {
+    "id": "curated-7",
+    "source": "curated",
+    "text": "We're paying $30/user/month for Workspace Business Plus with Gemini, but most of our team ignores the AI features because they're not reliable enough to trust. We could save money by dropping the AI tier and just using ChatGPT Team for $25/user.",
+    "author": "IT Admin",
+    "url": "https://www.reddit.com/r/sysadmin/",
+    "score": 0,
+    "date": "2026-01-15T00:00:00Z"
+  },
+  {
+    "id": "curated-8",
+    "source": "curated",
+    "text": "The 'Help me write' feature in Docs generates generic corporate fluff. It doesn't learn my writing style, doesn't match the tone of the rest of my document, and I end up rewriting 90% of what it generates. Notion AI does a much better job matching context.",
+    "author": "Writer",
+    "url": "https://www.reddit.com/r/GoogleWorkspace/",
+    "score": 0,
+    "date": "2026-03-10T00:00:00Z"
+  },
+  {
+    "id": "curated-9",
+    "source": "curated",
+    "text": "Gemini in Calendar can't intelligently schedule meetings. It doesn't consider my working hours preferences, travel time, or even basic context like 'schedule this after my 1:1 with Sarah.' Reclaim.ai does this 10x better.",
+    "author": "Calendar power user",
+    "url": "https://www.reddit.com/r/productivity/",
+    "score": 0,
+    "date": "2026-02-20T00:00:00Z"
+  },
+  {
+    "id": "curated-10",
+    "source": "curated",
+    "text": "Tried using Gemini to analyze a 50-page doc in Drive. It gave me a summary of the first 5 pages and hallucinated the rest. The context window might be large but it clearly isn't using it well for long documents.",
+    "author": "Analyst",
+    "url": "https://www.reddit.com/r/GoogleWorkspace/",
+    "score": 0,
+    "date": "2026-03-28T00:00:00Z"
+  },
+  {
+    "id": "curated-11",
+    "source": "curated",
+    "text": "Privacy is a real concern. Gemini accessing my inbox by default with no clear opt-out is a dealbreaker for our legal team. We had to disable it org-wide which means we lose ALL AI features, not just the inbox scanning.",
+    "author": "IT Director",
+    "url": "https://www.reddit.com/r/sysadmin/",
+    "score": 0,
+    "date": "2026-01-30T00:00:00Z"
+  },
+  {
+    "id": "curated-12",
+    "source": "curated",
+    "text": "The Gemini side panel in Slides is basically useless. It can generate an image or suggest a layout, but it can't restructure a presentation, reorder slides based on narrative flow, or create speaker notes that match my style. Gamma.app does all of this.",
+    "author": "Presenter",
+    "url": "https://www.reddit.com/r/GoogleWorkspace/",
+    "score": 0,
+    "date": "2026-03-05T00:00:00Z"
+  },
+  {
+    "id": "curated-13",
+    "source": "curated",
+    "text": "Why doesn't Gemini in Chat summarize thread history? In Slack, AI catches you up on channels you missed. In Google Chat, Gemini can't even tell me what happened while I was away. Basic feature that's missing.",
+    "author": "Chat user",
+    "url": "https://www.reddit.com/r/google/",
+    "score": 0,
+    "date": "2026-02-15T00:00:00Z"
+  },
+  {
+    "id": "curated-14",
+    "source": "curated",
+    "text": "Enterprise rollout of Gemini for Workspace has been painful. No granular admin controls — it's all or nothing. Can't enable AI for specific teams, can't restrict which data it accesses, can't set per-user policies. Microsoft Copilot admin controls are way ahead.",
+    "author": "Enterprise Admin",
+    "url": "https://www.reddit.com/r/sysadmin/",
+    "score": 0,
+    "date": "2026-03-12T00:00:00Z"
+  },
+  {
+    "id": "curated-15",
+    "source": "curated",
+    "text": "Gemini can't work with attachments in Gmail. I get a PDF invoice, ask Gemini to extract the total and due date, and it says it can't access attachments. I have to download, upload to ChatGPT, and paste the answer back. Terrible workflow.",
+    "author": "Operations Manager",
+    "url": "https://www.reddit.com/r/GoogleWorkspace/",
+    "score": 0,
+    "date": "2026-02-25T00:00:00Z"
+  }
+]
